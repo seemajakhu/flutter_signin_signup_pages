@@ -1,16 +1,6 @@
 # loginsscreens
 
 A new Flutter project.
+![Screenshot_20220609_125523](https://user-images.githubusercontent.com/95038695/172796202-03f9799a-df05-4e36-bce9-df1d0920de87.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20220609_125511](https://user-images.githubusercontent.com/95038695/172796234-6b38e37c-c62a-4a88-ad18-49fa2c657544.jpg)
